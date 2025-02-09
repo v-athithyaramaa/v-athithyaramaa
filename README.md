@@ -5,9 +5,9 @@
 <h1 align="center">Hello! I'm <span color="purple">V Athithya Ramaa</span></h1>
 <h3 align="center">A passionate Software Engineer & Fullstack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=athithyaramaa1&label=Profile%20views&color=0e75b6&style=flat" alt="athithyaramaa1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=v-athithyaramaa&label=Profile%20views&color=0e75b6&style=flat" alt="v-athithyaramaa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=athithyaramaa1" alt="athithyaramaa1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=v-athithyaramaa" alt="v-athithyaramaa" /></a> </p>
 
 - 🔭 I’m currently learning **FullStack Web Development**
 
@@ -40,15 +40,15 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=athithyaramaa1&show_icons=true&locale=en&layout=compact" alt="athithyaramaa1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=v-athithyaramaa&show_icons=true&locale=en&layout=compact" alt="v-athithyaramaa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=athithyaramaa1&show_icons=true&locale=en" alt="athithyaramaa1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v-athithyaramaa&show_icons=true&locale=en" alt="v-athithyaramaa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athithyaramaa1&" alt="athithyaramaa1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=v-athithyaramaa&" alt="v-athithyaramaa" /></p>
 
 <img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
 <!---
-athithyaramaa1/athithyaramaa1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+v-athithyaramaa/v-athithyaramaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
