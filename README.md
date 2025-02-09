@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently diving into **Python, C++, Java, MERN Stack, Typescript**
 
-- 💞️ I’m looking to collaborate on **exciting software projects, opensource, cyber security**
+- 💞️ I’m looking to collaborate on **exciting software projects, opensourcing.**
 
 - 👀 Passionate about **Fullstack Web Dev, Problem Solving, AI.**
 
