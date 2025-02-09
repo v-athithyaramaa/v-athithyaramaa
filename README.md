@@ -5,7 +5,7 @@
 <h1 align="center">Hello! I'm <span color="purple">V Athithya Ramaa</span></h1>
 <h3 align="center">A passionate Software Engineer & Fullstack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=v-athithyaramaa&label=Profile%20views&color=0e75b6&style=flat" alt="v-athithyaramaa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=athithyaramaa1&label=Profile%20views&color=0e75b6&style=flat" alt="athithyaramaa1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=v-athithyaramaa" alt="v-athithyaramaa" /></a> </p>
 
