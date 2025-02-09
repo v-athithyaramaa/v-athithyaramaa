@@ -15,7 +15,7 @@
 
 - 💞️ I’m looking to collaborate on **exciting software projects, opensource, cyber security**
 
-- 👀 Passionate about **MERN Stack, App Dev, Cyber Security, AI & DS.**
+- 👀 Passionate about **Fullstack Web Dev, Problem Solving, AI.**
 
 - ✨ Adaptable, Team player, Leadership, Public Speaking & Debating, Problem Solving, Agile Learner ✨
 
