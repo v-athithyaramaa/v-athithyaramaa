@@ -1,52 +1,124 @@
-<img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,11,20&height=180&section=header&text=⭐%20V%20Athithya%20Ramaa%20⭐&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
- 
-<img src="https://yt3.ggpht.com/UW1l6kVno13e5hcsFu9h7hDCuDrJep_2vvQwa-7fgTmfcP1J85JfbUvpGH4Jvn3qSmRh5C8WhQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="banner"/>
+<div align="center">
+  <img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,11,20&height=180&section=header&text=⭐%20V%20Athithya%20Ramaa%20⭐&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<h1 align="center">Hello! I'm <span color="purple">V Athithya Ramaa</span></h1>
-<h3 align="center">A passionate Software Engineer & Fullstack Web Developer</h3>
+  <h3>Software Engineer | Distributed Systems & Microservices | Physical AI & Robotics</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=athithyaramaa1&label=Profile%20views&color=0e75b6&style=flat" alt="athithyaramaa1" /> </p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/v-athithya-ramaa1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:vathithyaramaa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <img src="https://komarev.com/ghpvc/?username=athithyaramaa1&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  </p>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=v-athithyaramaa" alt="v-athithyaramaa" /></a> </p>
+---
 
-- 🔭 I’m currently learning **FullStack Web Development**
+### ⚡ Executive Summary
 
-- 🌱 I’m currently diving into **Python, C++, Java, MERN Stack, Typescript**
+Systems and full-stack engineer bridging distributed backend architectures, automated cloud infrastructure, and real-time Physical AI:
+- **Software Engineer Intern @ iCliniq**: Architecting high-throughput healthcare platforms, Domain-Driven Design (DDD) GraphQL microservices, and zero-downtime ETL pipelines transferring 100M+ medical transaction records.
+- **Physical AI & Real-Time Systems @ MultiCoreWare Inc.**: Researching Bird's-Eye-View (BEV) spatial feature pooling, VLMs/VLAs, and low-latency C++/ROS 2 nodes synchronizing multi-channel sensor feeds at 60 FPS.
+- **Agentic AI & Systems Engineering**: Architecting stateful multi-agent graphs (LangGraph/LangChain) with sub-second hybrid RAG pipelines and bare-metal C++ tensor engines.
 
-- 💞️ I’m looking to collaborate on **exciting software projects, opensourcing.**
+---
 
-- 👀 Passionate about **Fullstack Web Dev, Problem Solving, AI.**
+### 🛠️ Technical Arsenal
 
-- ✨ Adaptable, Team player, Leadership, Public Speaking & Debating, Problem Solving, Agile Learner ✨
+<table>
+  <tr>
+    <td width="25%"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C++17/20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%"><b>Physical AI & Robotics</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" />
+      <img src="https://img.shields.io/badge/BEV_Perception-00B4D8?style=flat-square" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+      <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white" />
+      <img src="https://img.shields.io/badge/QNN_SDK-8A2BE2?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%"><b>Agentic AI & LLMs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/RAG_Pipelines-007ACC?style=flat-square" />
+      <img src="https://img.shields.io/badge/Vector_DBs_(Chroma/Pinecone)-4B0082?style=flat-square" />
+      <img src="https://img.shields.io/badge/Gemini_1.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%"><b>Backend & Systems</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostGIS-27AE60?style=flat-square" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%"><b>Cloud & Infrastructure</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS_(EC2,_S3,_RDS,_ECS)-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
+      <img src="https://img.shields.io/badge/CI/CD_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%"><b>Frontend & 3D WebGL</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Three.js_(R3F)-000000?style=flat-square&logo=three.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-- ⭐ Excellence in **Complexity Unraveling; Visionary Technophile & Thinker**
+---
 
-- 📫 How to reach me **vathithyaramaa@gmail.com**
+### 🚀 Highlighted Systems & Engineering Artifacts
 
-- ⚡ Fun fact **I'm a swift learner with a remarkable memory, never stuck in the same problem twice!**
+- **[AegisStructure (ResQ-Vision)](https://github.com/v-athithyaramaa)**: Tactical rapid visual screening & collapse perimeter platform built for first responders. Compliant with FEMA P-154 & ATC-20 standards with sub-50ms radial queries via PostGIS GIST indexing and client-side offline IndexedDB mesh sync.
+- **Multi-Agent Stateful Knowledge Engine**: Distributed agentic graph with LangGraph/LangChain handling 500+ concurrent state transactions without race conditions; hybrid dense-retrieval RAG keeping hallucination rates $<5\%$.
+- **Generative GPT Engine & C++ Operators**: Causal autoregressive transformer built from bare-metal PyTorch tensors with custom C++ operator layers, dynamic QKV cache, and INT8/FP16 quantization via Qualcomm QNN SDK.
+- **Tunify Microservices Engine**: High-concurrency audio platform with decoupled User, Catalog, and Ingestion services, sustaining sub-50ms p95 latencies across 1M+ monthly requests.
 
-<hr>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/v-athithya-ramaa1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/v-athithya-ramaa1/" height="30" width="40" /></a>
-</p>
+### 📊 GitHub Activity & Telemetry
 
-<hr>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=v-athithyaramaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-athithyaramaa&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=v-athithyaramaa&theme=tokyonight&hide_border=true" />
+</div>
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+---
 
-<hr>
+<div align="center"><img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=v-athithyaramaa&show_icons=true&locale=en&layout=compact" alt="v-athithyaramaa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v-athithyaramaa&show_icons=true&locale=en" alt="v-athithyaramaa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=v-athithyaramaa&" alt="v-athithyaramaa" /></p>
-
-<img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
 <!---
 v-athithyaramaa/v-athithyaramaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
