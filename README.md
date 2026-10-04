@@ -77,10 +77,11 @@ Systems and full-stack engineer bridging distributed backend architectures, auto
       <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
       <img src="https://img.shields.io/badge/CI/CD_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/GCP-FF9900?style=flat-square&logo=google=gcp&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td width="25%"><b>Frontend & 3D WebGL</b></td>
+    <td width="25%"><b>Frontend </b></td>
     <td>
       <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white" />
