@@ -6,7 +6,7 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/v-athithya-ramaa1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:vathithyaramaa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <img src="https://komarev.com/ghpvc/?username=athithyaramaa1&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=athithyaramaa1&label=Profile%20Views&color=0e75b6&style=for-the-badge" /> 
   </p>
 </div>
 
