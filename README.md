@@ -16,7 +16,7 @@
 
 Systems and full-stack engineer bridging distributed backend architectures, automated cloud infrastructure, and real-time Physical AI:
 - **Software Engineer Intern @ iCliniq**: Architecting high-throughput healthcare platforms, Domain-Driven Design (DDD) GraphQL microservices, and zero-downtime ETL pipelines transferring 100M+ medical transaction records.
-- **Physical AI & Real-Time Systems @ MultiCoreWare Inc.**: Researching Bird's-Eye-View (BEV) spatial feature pooling, VLMs/VLAs, and low-latency C++/ROS 2 nodes synchronizing multi-channel sensor feeds at 60 FPS.
+- **Physical AI & Real-Time Systems**: Researching Bird's-Eye-View (BEV) spatial feature pooling, VLMs/VLAs, and low-latency C++/ROS 2 nodes synchronizing multi-channel sensor feeds at 60 FPS.
 - **Agentic AI & Systems Engineering**: Architecting stateful multi-agent graphs (LangGraph/LangChain) with sub-second hybrid RAG pipelines and bare-metal C++ tensor engines.
 
 ---
